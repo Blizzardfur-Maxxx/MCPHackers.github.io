@@ -928,5 +928,11 @@
    "proxy_port": 11702,
    "client_timestamp": "2010-03-21T13:33:02Z",
    "resources": "inf-20100321.zip"
+  },
+   "inf-20100325": {
+   "client_url": "http://files.betacraft.uk/launcher/assets/versions/inf-20100325.jar",
+   "proxy_port": 11702,
+   "client_timestamp": "2010-03-25T13:33:02Z",
+   "resources": "inf-20100325.zip"
   }
  }
