@@ -936,12 +936,10 @@
    "resources": "inf-20100325.zip"
   },
    "b1.8-pre1": {
-   "client_url": "https://assets.minecraft.net/1_8-pre/minecraft.jar",
+   "client_url": "https://archive.org/download/Minecraft-JE-Beta/Prereleases/b1.8-pre1-1/b1.8-pre1-1.jar",
    "proxy_port": 11705,
    "server": "b1.8-pre1",
    "client_timestamp": "2011-09-09T22:00:00Z",
-   "server_timestamp": "2011-09-09T22:00:00Z",
    "resources": "b1.8-pre1.zip",
-   "server_url": "https://archive.org/download/Minecraft-JE-Beta/Prereleases/b1.8-pre1-1/b1.8-pre1-1.jar"
   }
  }
