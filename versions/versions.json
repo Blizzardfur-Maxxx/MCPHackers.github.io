@@ -941,5 +941,29 @@
    "server": "b1.8-pre1",
    "client_timestamp": "2011-09-09T22:00:00Z",
    "resources": "b1.8-pre1.zip",
+  },
+   "c0.30_01c": {
+   "client_url": "https://piston-data.mojang.com/v1/objects/54622801f5ef1bcc1549a842c5b04cb5d5583005/client.jar",
+   "proxy_port": 11701,
+   "server": "c1.8.2",
+   "client_timestamp": "2009-11-10T13:35:02Z",
+   "resources": "c0.30_01c.zip",
+   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.10.1.zip"
+  },
+   "c0.30-2": {
+   "client_url": "https://archive.org/download/Minecraft-JE-Classic/c0.30-2/c0.30-2.jar",
+   "proxy_port": 11701,
+   "server": "c1.8.2",
+   "client_timestamp": "2009-11-10T13:35:02Z",
+   "resources": "c0.30-2.zip",
+   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.10.1.zip"
+  },
+   "c0.30-1": {
+   "client_url": "https://archive.org/download/Minecraft-JE-Classic/c0.30-1/c0.30-1.jar",
+   "proxy_port": 11701,
+   "server": "c1.8.2",
+   "client_timestamp": "2009-11-10T13:35:02Z",
+   "resources": "c0.30-1.zip",
+   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.10.1.zip"
   }
  }
