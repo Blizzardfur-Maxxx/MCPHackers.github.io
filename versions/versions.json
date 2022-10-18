@@ -965,5 +965,11 @@
    "client_timestamp": "2009-11-10T13:35:02Z",
    "resources": "c0.30-1.zip",
    "server_url": "http://files.betacraft.uk/server-archive/classic/c1.10.1.zip"
+   },
+  "c0.24-st3": {
+   "client_url": "https://archive.org/download/Minecraft-JE-Classic/c0.24_st_03/c0.24_st_03.jar",
+   "proxy_port": 11701,
+   "client_timestamp": "2009-9-01T18:04:24Z",
+   "resources": "c0.24-st3.zip"
   }
  }
