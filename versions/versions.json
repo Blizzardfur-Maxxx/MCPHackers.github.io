@@ -438,7 +438,7 @@
    "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.5_02.jar"
   },
   "b1.9-pre5": {
-   "client_url": "https://assets.minecraft.net/1_9-pre5/minecraft.jar",
+   "client_url": "https://archive.org/download/Minecraft-JE-Beta/Prereleases/b1.9-pre5/b1.9-pre5.jar",
    "proxy_port": 11707,
    "server": "b1.9-pre5",
    "client_timestamp": "2011-10-27T13:36:04Z",
@@ -600,7 +600,7 @@
    "client_timestamp": "2012-03-30T09:07:22Z",
    "server_timestamp": "2012-03-30T09:07:34Z",
    "resources": "1.2.5.zip",
-   "server_url": "https://assets.minecraft.net/1_2_5/minecraft_server.jar"
+   "server_url": "https://files.betacraft.uk/server-archive/release/1.2/1.2.5.jar"
   },
   "a1.1.1": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.1.1.jar",
@@ -869,8 +869,8 @@
    "resources": "b1.4_01.zip",
    "server_url": "http://files.betacraft.uk/server-archive/beta/b1.4_01.jar"
   },
-   "b1.8-pre1-1": {
-   "client_url": "https://assets.minecraft.net/1_8-pre/minecraft.jar",
+   "b1.8-pre1-2": {
+   "client_url": "https://archive.org/download/Minecraft-JE-Beta/Prereleases/b1.8-pre1-2/b1.8-pre1-2.jar",
    "proxy_port": 11705,
    "server": "b1.8-pre1",
    "client_timestamp": "2011-09-09T22:00:00Z",
@@ -879,7 +879,7 @@
    "server_url": "https://files.betacraft.uk/server-archive/beta/prerelease/b1.8-pre1-091358.jar"
   },
    "b1.8-pre2": {
-   "client_url": "https://assets.minecraft.net/1_8-pre2/minecraft.jar",
+   "client_url": "https://archive.org/download/Minecraft-JE-Beta/Prereleases/b1.8-pre2/b1.8-pre2.jar",
    "proxy_port": 11705,
    "server": "b1.8-pre2",
    "client_timestamp": "2011-09-13T22:00:00Z",
@@ -897,13 +897,13 @@
    "server_url": "http://files.betacraft.uk/server-archive/release/1.0/prerelease/1.0.0-rc1%20%28modified%29.jar"
   },
    "1.0.0-rc2": {
-   "client_url": "https://assets.minecraft.net/rc2/minecraft.jar",
+   "client_url": "https://archive.org/download/Minecraft-JE-Beta/1.0.0-rc2-2/1.0.0-rc2-2.jar",
    "proxy_port": 11705,
    "server": "1.0.0-rc2",
    "client_timestamp": "2011-11-13T22:00:00Z",
    "server_timestamp": "2011-11-13T22:00:00Z",
    "resources": "1.0.0-rc2.zip",
-   "server_url": "https://assets.minecraft.net/rc2/minecraft_server.jar"
+   "server_url": "https://files.betacraft.uk/server-archive/release/1.0/prerelease/1.0.0-rc2-1656.jar"
   },
    "inf-20100313": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/inf-20100313.jar",
@@ -935,7 +935,7 @@
    "client_timestamp": "2010-03-25T13:33:02Z",
    "resources": "inf-20100325.zip"
   },
-   "b1.8-pre1": {
+   "b1.8-pre1-1": {
    "client_url": "https://archive.org/download/Minecraft-JE-Beta/Prereleases/b1.8-pre1-1/b1.8-pre1-1.jar",
    "proxy_port": 11705,
    "server": "b1.8-pre1",
