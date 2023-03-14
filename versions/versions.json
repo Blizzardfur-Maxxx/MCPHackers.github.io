@@ -950,20 +950,20 @@
    "resources": "c0.30_01c.zip",
    "server_url": "http://files.betacraft.uk/server-archive/classic/c1.10.1.zip"
   },
-   "c0.30-2": {
-   "client_url": "https://archive.org/download/Minecraft-JE-Classic/c0.30-2/c0.30-2.jar",
+   "c0.30-c": {
+   "client_url": "https://files.betacraft.uk/launcher/assets/versions/c0.30-c.jar",
    "proxy_port": 11701,
-   "server": "c1.8.2",
+   "server": "c1.10.1",
    "client_timestamp": "2009-11-10T13:35:02Z",
-   "resources": "c0.30-2.zip",
+   "resources": "c0.30-c.zip",
    "server_url": "http://files.betacraft.uk/server-archive/classic/c1.10.1.zip"
   },
-   "c0.30-1": {
-   "client_url": "https://archive.org/download/Minecraft-JE-Classic/c0.30-1/c0.30-1.jar",
+   "c0.30-s": {
+   "client_url": "https://files.betacraft.uk/launcher/assets/versions/c0.30-s.jar",
    "proxy_port": 11701,
-   "server": "c1.8.2",
+   "server": "c1.10.1",
    "client_timestamp": "2009-11-10T13:35:02Z",
-   "resources": "c0.30-1.zip",
+   "resources": "c0.30-s.zip",
    "server_url": "http://files.betacraft.uk/server-archive/classic/c1.10.1.zip"
    },
   "c0.24-st3": {
@@ -1007,5 +1007,49 @@
    "server_timestamp": "2011-10-06T13:36:22Z",
    "resources": "b1.9-pre3.zip",
    "server_url": "https://files.betacraft.uk/server-archive/beta/prerelease/b1.9-pre3.jar"
-  }
+  },
+  "c0.25-st5": {
+   "client_url": "https://files.betacraft.uk/launcher/assets/versions/c0.25_05_st.jar",
+   "proxy_port": 11701,
+   "client_timestamp": "2009-9-03T18:04:24Z",
+   "resources": "c0.25-st5.zip"
+  },
+  "c0.27-st": {
+   "client_url": "https://files.betacraft.uk/launcher/assets/versions/c0.27_st.jar",
+   "proxy_port": 11701,
+   "client_timestamp": "2009-10-24T18:04:24Z",
+   "resources": "c0.27-st.zip"
+   },
+   "c0.28_01": {
+    "client_url": "https://files.betacraft.uk/launcher/assets/versions/c0.28_01.jar",
+    "proxy_port": 11701,
+    "server": "c1.10.1",
+    "client_timestamp": "2009-10-27T13:35:02Z",
+    "resources": "c0.28_01.zip",
+    "server_url": "http://files.betacraft.uk/server-archive/classic/c1.10.1.zip"
+  },
+  "c0.29": {
+   "client_url": "https://files.betacraft.uk/launcher/assets/versions/c0.29.jar",
+   "proxy_port": 11701,
+   "server": "c1.10.1",
+   "client_timestamp": "2009-10-29T13:35:02Z",
+   "resources": "c0.29.zip",
+   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.10.1.zip"
+  },
+  "c0.29_01": {
+   "client_url": "https://files.betacraft.uk/launcher/assets/versions/c0.29_01.jar",
+   "proxy_port": 11701,
+   "server": "c1.10.1",
+   "client_timestamp": "2009-10-29T13:35:02Z",
+   "resources": "c0.29_01.zip",
+   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.10.1.zip"
+  },
+  "c0.29_02": {
+   "client_url": "https://files.betacraft.uk/launcher/assets/versions/c0.29_02.jar",
+   "proxy_port": 11701,
+   "server": "c1.10.1",
+   "client_timestamp": "2009-10-30T13:35:02Z",
+   "resources": "c0.29_02.zip",
+   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.10.1.zip"
+   }
  }
