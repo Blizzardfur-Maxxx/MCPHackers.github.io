@@ -684,13 +684,17 @@
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.8_01.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-19T22:40:38Z",
+   "server_timestamp": "2010-07-19T22:40:38Z",
    "resources": "a1.0.8_01.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.8.jar",
   },
   "a1.0.6_01": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.6_01.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-17T16:03:22Z",
+   "server_timestamp": "2010-07-17T16:03:22Z",
    "resources": "a1.0.6.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.6.jar",
   },
   "a1.0.15": {
    "client_url": "https://launcher.mojang.com/v1/objects/03edaff812bedd4157a90877e779d7b7ecf78e97/client.jar",
@@ -705,7 +709,9 @@
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.6_03.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-17T17:24:58Z",
+   "server_timestamp": "2010-07-17T17:24:58Z",
    "resources": "a1.0.6.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.6.jar",
   },
   "a1.0.16": {
    "client_url": "https://launcher.mojang.com/v1/objects/98ce80c7630ccb3bb38687ff98bfd18935d49a57/client.jar",
@@ -720,7 +726,10 @@
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.13_01-1.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-29T09:38:16Z",
+   "server_timestamp": "2010-07-29T09:38:16Z",
    "resources": "a1.0.13.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.13.jar",
+
   },
   "a1.0.17_03": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.17_03.jar",
@@ -735,7 +744,9 @@
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.13_01-2.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-29T13:44:52Z",
+   "server_timestamp": "2010-07-29T13:44:52Z",
    "resources": "a1.0.13.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.13.jar",
   },
   "a1.0.17_04": {
    "client_url": "https://launcher.mojang.com/v1/objects/61cb4c717981f34bf90e8502d2eb8cf2aa6db0cd/client.jar",
@@ -750,19 +761,25 @@
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.10.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-22T15:57:14Z",
+   "server_timestamp": "2010-07-22T15:57:14Z",
    "resources": "a1.0.10.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.10.jar",
   },
   "a1.0.11": {
    "client_url": "https://launcher.mojang.com/v1/objects/d7ceb02909d0e1031a99ff4d8053d3f4abfbb2da/client.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-23T13:36:38Z",
+   "server_timestamp": "2010-07-23T13:36:38Z",
    "resources": "a1.0.11.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.11.jar",
   },
   "a1.0.12": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.12.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-26T15:08:56Z",
+   "server_timestamp": "2010-07-26T15:08:56Z",
    "resources": "a1.0.12.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.12.jar",
   },
   "a1.0.17_02": {
    "client_url": "https://launcher.mojang.com/v1/objects/39f20ee472a40322e034643a8d1668836f5052bd/client.jar",
@@ -777,7 +794,9 @@
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.13.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-28T15:30:02Z",
+   "server_timestamp": "2010-07-28T15:30:02Z",
    "resources": "a1.0.13.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.13.jar",
   },
   "a1.0.14-2": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.14-2.jar",
@@ -799,19 +818,25 @@
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.9.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-21T10:30:30Z",
+   "server_timestamp": "2010-07-21T10:30:30Z",
    "resources": "a1.0.9.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.9.jar",
   },
   "a1.0.6": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.6.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-16T10:29:26Z",
+   "server_timestamp": "2010-07-16T10:29:26Z",
    "resources": "a1.0.6.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.6.jar",
   },
   "a1.0.7": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.7.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-19T16:23:56Z",
+   "server_timestamp": "2010-07-19T16:23:56Z",
    "resources": "a1.0.7.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.7.jar",
   },
   "a1.0.4": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.4.jar",
@@ -823,13 +848,17 @@
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.5-2.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-13T20:49:50Z",
+   "server_timestamp": "2010-07-13T20:49:50Z",
    "resources": "a1.0.5.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.5%20(basically%20useless%2C%20use%20a1.0.6).jar",
   },
   "a1.0.5_01": {
    "client_url": "https://launcher.mojang.com/v1/objects/73f569bf5556580979606049204835ae1a54f04d/client.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-14T19:46:26Z",
+   "server_timestamp": "2010-07-14T19:46:26Z",
    "resources": "a1.0.5_01.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.5%20(basically%20useless%2C%20use%20a1.0.6).jar",
   },
   "a1.0.3": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.3.jar",
