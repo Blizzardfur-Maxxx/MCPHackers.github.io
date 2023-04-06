@@ -785,13 +785,15 @@
    "client_timestamp": "2010-07-30T15:59:14Z",
    "server_timestamp": "2010-07-30T15:59:14Z",
    "resources": "a1.0.14.zip"
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.1.4.jar"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.14.jar"
   },
   "a1.0.14-1": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.14-1.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-30T15:03:24Z",
+   "server_timestamp": "2010-07-30T15:59:14Z",
    "resources": "a1.0.14.zip"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/codie-servers/minecraft_server_a1.0.14.jar"
   },
   "a1.0.9": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.9.jar",
