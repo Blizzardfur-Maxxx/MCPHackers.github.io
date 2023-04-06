@@ -682,6 +682,7 @@
   },
   "a1.0.8_01": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.8_01.jar",
+   "server": "unoffical",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-19T22:40:38Z",
    "server_timestamp": "2010-07-19T22:40:38Z",
@@ -690,6 +691,7 @@
   },
   "a1.0.6_01": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.6_01.jar",
+   "server": "unoffical",
    "proxy_port": 11702,
    "client_timestamp": "2010-07-17T16:03:22Z",
    "server_timestamp": "2010-07-17T16:03:22Z",
@@ -708,6 +710,7 @@
   "a1.0.6_03": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.6_03.jar",
    "proxy_port": 11702,
+   "server": "unoffical",
    "client_timestamp": "2010-07-17T17:24:58Z",
    "server_timestamp": "2010-07-17T17:24:58Z",
    "resources": "a1.0.6.zip",
@@ -725,6 +728,7 @@
   "a1.0.13_01-1": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.13_01-1.jar",
    "proxy_port": 11702,
+   "server": "unoffical",
    "client_timestamp": "2010-07-29T09:38:16Z",
    "server_timestamp": "2010-07-29T09:38:16Z",
    "resources": "a1.0.13.zip",
@@ -743,6 +747,7 @@
   "a1.0.13_01-2": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.13_01-2.jar",
    "proxy_port": 11702,
+   "server": "unoffical",
    "client_timestamp": "2010-07-29T13:44:52Z",
    "server_timestamp": "2010-07-29T13:44:52Z",
    "resources": "a1.0.13.zip",
@@ -760,6 +765,7 @@
   "a1.0.10": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.10.jar",
    "proxy_port": 11702,
+   "server": "unoffical",
    "client_timestamp": "2010-07-22T15:57:14Z",
    "server_timestamp": "2010-07-22T15:57:14Z",
    "resources": "a1.0.10.zip",
@@ -768,6 +774,7 @@
   "a1.0.11": {
    "client_url": "https://launcher.mojang.com/v1/objects/d7ceb02909d0e1031a99ff4d8053d3f4abfbb2da/client.jar",
    "proxy_port": 11702,
+   "server": "unoffical",
    "client_timestamp": "2010-07-23T13:36:38Z",
    "server_timestamp": "2010-07-23T13:36:38Z",
    "resources": "a1.0.11.zip",
@@ -776,6 +783,7 @@
   "a1.0.12": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.12.jar",
    "proxy_port": 11702,
+   "server": "unoffical",
    "client_timestamp": "2010-07-26T15:08:56Z",
    "server_timestamp": "2010-07-26T15:08:56Z",
    "resources": "a1.0.12.zip",
@@ -793,6 +801,7 @@
   "a1.0.13": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.13.jar",
    "proxy_port": 11702,
+   "server": "unoffical",
    "client_timestamp": "2010-07-28T15:30:02Z",
    "server_timestamp": "2010-07-28T15:30:02Z",
    "resources": "a1.0.13.zip",
@@ -801,6 +810,7 @@
   "a1.0.14-2": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.14-2.jar",
    "proxy_port": 11702,
+   "server": "unoffical",
    "client_timestamp": "2010-07-30T15:59:14Z",
    "server_timestamp": "2010-07-30T15:59:14Z",
    "resources": "a1.0.14.zip",
@@ -809,6 +819,7 @@
   "a1.0.14-1": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.14-1.jar",
    "proxy_port": 11702,
+   "server": "unoffical",
    "client_timestamp": "2010-07-30T15:03:24Z",
    "server_timestamp": "2010-07-30T15:59:14Z",
    "resources": "a1.0.14.zip",
@@ -817,6 +828,7 @@
   "a1.0.9": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.9.jar",
    "proxy_port": 11702,
+   "server": "unoffical",
    "client_timestamp": "2010-07-21T10:30:30Z",
    "server_timestamp": "2010-07-21T10:30:30Z",
    "resources": "a1.0.9.zip",
@@ -825,6 +837,7 @@
   "a1.0.6": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.6.jar",
    "proxy_port": 11702,
+   "server": "unoffical",
    "client_timestamp": "2010-07-16T10:29:26Z",
    "server_timestamp": "2010-07-16T10:29:26Z",
    "resources": "a1.0.6.zip",
@@ -833,6 +846,7 @@
   "a1.0.7": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.7.jar",
    "proxy_port": 11702,
+   "server": "unoffical",
    "client_timestamp": "2010-07-19T16:23:56Z",
    "server_timestamp": "2010-07-19T16:23:56Z",
    "resources": "a1.0.7.zip",
@@ -853,6 +867,7 @@
   "a1.0.5_01": {
    "client_url": "https://launcher.mojang.com/v1/objects/73f569bf5556580979606049204835ae1a54f04d/client.jar",
    "proxy_port": 11702,
+   "server": "unoffical",
    "client_timestamp": "2010-07-14T19:46:26Z",
    "server_timestamp": "2010-07-14T19:46:26Z",
    "resources": "a1.0.5_01.zip",
