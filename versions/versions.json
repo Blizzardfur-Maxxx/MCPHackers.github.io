@@ -1097,5 +1097,17 @@
    "client_timestamp": "2009-10-30T13:35:02Z",
    "resources": "c0.29_02.zip",
    "server_url": "http://files.betacraft.uk/server-archive/classic/c1.10.1.zip"
-   }
+   },
+   "4k-021742": {
+   "client_url": "https://files.betacraft.uk/launcher/assets/versions/4k-021742.jar",
+   "proxy_port": 11701,
+   "client_timestamp": "2009-12-02T00:00:00Z",
+   "resources": "4k.zip"
+   },
+   "4k-2": {
+   "client_url": "https://files.betacraft.uk/launcher/assets/versions/4k-2.jar",
+   "proxy_port": 11701,
+   "client_timestamp": "2009-12-02T00:00:00Z",
+   "resources": "4k.zip"
+  }
  }
