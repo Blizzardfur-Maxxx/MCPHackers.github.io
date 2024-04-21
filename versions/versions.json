@@ -1187,5 +1187,11 @@
    "proxy_port": 11702,
    "client_timestamp": "2010-06-29T08:22:34Z",
    "resources": "inf-20100629.zip"
+   },
+   "minicraft-ld22": {
+   "client_url": "http://theintraclinic.com/archive/ld22/ld22.jar",
+   "proxy_port": 11702,
+   "client_timestamp": "2011-12-19T08:22:34Z",
+   "resources": "minicraft-ld22.zip"
   }
 }
