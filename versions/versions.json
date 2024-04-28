@@ -1193,5 +1193,11 @@
    "proxy_port": 11702,
    "client_timestamp": "2011-12-19T08:22:34Z",
    "resources": "minicraft-ld22.zip"
+   },
+   "minicraft-plus-2.2.0": {
+   "client_url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.2.0/minicraft-plus-2.2.0.jar",
+   "proxy_port": 11702,
+   "client_timestamp": "2011-12-19T08:22:34Z",
+   "resources": "minicraft-ld22.zip"
   }
 }
