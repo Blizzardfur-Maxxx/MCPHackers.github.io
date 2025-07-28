@@ -435,8 +435,8 @@
    "client_url": "https://piston-data.mojang.com/v1/objects/b99da0a683e6dc1ade4df1bf159e021ad07d4fca/client.jar",
    "proxy_port": 11705,
    "server": "a0.2.2_01",
-   "client_timestamp": "2010-10-30T15:12:24Z",
-   "server_timestamp": "2010-10-30T15:12:08Z",
+   "client_timestamp": "2010-10-31T15:12:24Z",
+   "server_timestamp": "2010-10-31T15:12:08Z",
    "resources": "a1.2.0-a1.2.1_01.zip",
    "server_url": "https://files.betacraft.uk/server-archive/alpha/a0.2.2_01.jar"
    },
@@ -444,8 +444,8 @@
    "client_url": "https://piston-data.mojang.com/v1/objects/e4226f9ba622634e3101681bc641eec7ee9e72fd/client.jar",
    "proxy_port": 11705,
    "server": "a0.2.3",
-   "client_timestamp": "2010-10-30T15:12:24Z",
-   "server_timestamp": "2010-10-30T15:12:08Z",
+   "client_timestamp": "2010-11-05T15:12:24Z",
+   "server_timestamp": "2010-11-05T15:12:08Z",
    "resources": "a1.2.0-a1.2.1_01.zip",
    "server_url": "https://files.betacraft.uk/server-archive/alpha/a0.2.3.jar"
   },
