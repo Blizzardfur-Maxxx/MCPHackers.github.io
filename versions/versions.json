@@ -413,7 +413,7 @@
    "client_timestamp": "2009-05-22T17:13:12Z",
    "resources": "c0.0.13a_03.zip"
   },
-  "a1.2.0": {
+  "a1.2.0-1": {
    "client_url": "https://vault.omniarchive.uk/archive/java/client-alpha/a1.2.0.jar",
    "proxy_port": 11705,
    "server": "a0.2.2",
