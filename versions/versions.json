@@ -413,15 +413,6 @@
    "client_timestamp": "2009-05-22T17:13:12Z",
    "resources": "c0.0.13a_03.zip"
   },
-  "a1.2.0": {
-   "client_url": "https://vault.omniarchive.uk/archive/java/client-alpha/a1.2.0.jar",
-   "proxy_port": 11705,
-   "server": "a0.2.2",
-   "client_timestamp": "2010-10-30T15:12:24Z",
-   "server_timestamp": "2010-10-30T15:12:08Z",
-   "resources": "a1.2.0-a1.2.1_01.zip",
-   "server_url": "https://files.betacraft.uk/server-archive/alpha/a0.2.2.jar"
-  },
   "a1.2.3_02": {
    "client_url": "https://launcher.mojang.com/v1/objects/dc61158e1df763f87483abb6ab540dc1c42e63c4/client.jar",
    "proxy_port": 11705,
