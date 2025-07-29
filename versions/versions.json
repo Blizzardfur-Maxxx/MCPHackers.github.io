@@ -1236,6 +1236,12 @@
    "client_timestamp": "2008-08-05T08:22:34Z",
    "resources": "chambered1.zip"
   },
+   "0x10c": {
+   "client_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/dcpu.jar",
+   "proxy_port": 11702,
+   "client_timestamp": "2012-03-30T08:22:34Z",
+   "resources": "0x10c.zip"
+  },
    "b1.2_02-20110517": {
    "client_url": "https://github.com/Blizzardfur-Maxxx/MCPHackers.github.io/raw/main/b1.2_02-20110517.jar",
    "proxy_port": 11702,
