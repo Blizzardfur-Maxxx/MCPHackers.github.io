@@ -6,7 +6,7 @@
    "resources": "in-20091231.zip"
   },
   "inf-20100330": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/inf-20100330.jar",
+   "client_url": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100330-1611.jar",
    "proxy_port": 11702,
    "client_timestamp": "2010-03-30T15:11:02Z",
    "resources": "inf-20100330.zip"
