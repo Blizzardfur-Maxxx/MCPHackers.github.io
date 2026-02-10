@@ -638,6 +638,15 @@
    "resources": "1.2.5.zip",
    "server_url": "https://files.betacraft.uk/server-archive/release/1.2/1.2.5.jar"
   },
+  "1.5.2": {
+   "client_url": "https://piston-data.mojang.com/v1/objects/465378c9dc2f779ae1d6e8046ebc46fb53a57968/client.jar",
+   "proxy_port": 11707,
+   "server": "1.5.2",
+   "client_timestamp": "2013-05-02T09:07:22Z",
+   "server_timestamp": "2013-05-02T09:07:34Z",
+   "resources": "1.5.2.zip",
+   "server_url": "https://files.betacraft.uk/server-archive/release/1.5/1.5.2.jar"
+  },
   "a1.1.1": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.1.1.jar",
    "proxy_port": 11702,
