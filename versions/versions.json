@@ -672,7 +672,7 @@
    "client_timestamp": "2013-05-02T09:07:22Z",
    "server_timestamp": "2013-05-02T09:07:34Z",
    "resources": "1.6.4.zip",
-   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/refs/heads/main/minecraft_server_1.6.4"
+   "server_url": "https://raw.githubusercontent.com/Blizzardfur-Maxxx/MCPHackers.github.io/main/minecraft_server_1.6.4"
   },
   "a1.1.1": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.1.1.jar",
